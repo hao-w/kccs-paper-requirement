@@ -1,5 +1,9 @@
 ## KCCS PhD Paper Requirement Repository
 
-### Title: Amortized Population Gibbs Samplers with Neural Sufficient Statistics. [arXiv](https://arxiv.org/abs/1911.01382) 
+#### Student Name: Hao Wu ([website](https://hao-w.github.io/))
+#### Northeastern Email Address: wu.hao10@northeastern.edu
+#### PhD Advisor: Jan-Willem van de Meent([website](http://www.ccs.neu.edu/home/jwvdm/))
+
+### Paper Title: Amortized Population Gibbs Samplers with Neural Sufficient Statistics. [PDF](https://github.com/hao-w/kccs-paper-requirement/blob/master/paper.pdf)
 
 **Advisor Statement** :  Hao designed methodology in the paper, which provides a new class of autoencoding variational methods for deep probabilistic models. He also implemented all experiments that evaluate the performance of this approach. Finally, he took the lead in drafting this manuscript, which was further edited by co-authors.
